@@ -1,0 +1,25 @@
+.header-body {
+    background-color: #d9d9d9;
+}
+
+header {
+    position: relative;
+    display: inline;
+}
+
+header ul {
+    
+
+    padding-top: 50px;
+    display: flex;
+    position: absolute;
+    top right: 25px;
+}
+
+header  ul li {
+    display: inline;
+    margin-left: 30px;
+    color: #ffff;
+    cursor: pointer;
+
+}
